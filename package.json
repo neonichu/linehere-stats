@@ -1,0 +1,13 @@
+{
+  "name": "linehere-stats",
+  "version": "0.0.1",
+  "description": "Extract number of participants from Line Here invite.",
+  "license": "MIT",
+  "repository": "https://github.com/neonichu/linehere-stats",
+  "bin": {
+    "linehere": "index.js"
+  },
+  "dependencies": {
+    "scraperjs": "~1.2.0"
+  }
+}
